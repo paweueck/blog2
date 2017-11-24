@@ -1,5 +1,5 @@
-title: Pawel's data science blog
-description: A taste of what I did for my previous assignment and what I like to play with.
+title: mrcnk's data science blog
+description: A taste of what I did for my previous assignments and what I like to play with.
 show_downloads: false
 
 baseurl: "" # change this to the subpath of your site, e.g. /blog. Leave it empty if you don't need it.
@@ -15,10 +15,13 @@ theme: # leave it empty
 
 # social
 author: "Pawel Marciniak"
-image: /thumbnail-jumbo.png
+image: pawel-face.png
+author-pic: pawel-face.png
+author-cv: pawel-cv.pdf
 twitter:
   username: pfmarciniak
 #  site:
+linkedin: 'marciniakpawel'
 facebook:
   #publisher: 1592372034171500
   #profile_id: 1809805629
